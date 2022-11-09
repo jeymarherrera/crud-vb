@@ -15,4 +15,4 @@ La interfaz cuenta con los siguientes campos:
 - Telefono
 - Direccion 
 <br>
-De los cuales el usuario podrá agregar nuevos datos, agregarlos a la base de datos, modificarlos, eliminarlos y guardarlos en un archivo con extensión .txt 
+De los cuales el usuario podrá agregar nuevos datos, agregarlos al dgv, modificarlos, eliminarlos y guardarlos en un archivo con extensión .txt 
